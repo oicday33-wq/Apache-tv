@@ -1,0 +1,166 @@
+{
+  "w3u_version": "1.0",
+  "generator": "ChatGPT - XCIPTV helper",
+  "playlist": [
+    {
+      "name": "Manchester City",
+      "tvg-id": "man_city",
+      "tvg-name": "Manchester City",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+      "group": "England - Premier League",
+      "url": "https://xciptv.short.gy/XCIPTV?team=Manchester%20City"
+    },
+    {
+      "name": "Manchester United",
+      "tvg-id": "man_united",
+      "tvg-name": "Manchester United",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
+      "group": "England - Premier League",
+      "url": "https://xciptv.short.gy/XCIPTV?team=Manchester%20United"
+    },
+    {
+      "name": "Liverpool",
+      "tvg-id": "liverpool",
+      "tvg-name": "Liverpool FC",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "group": "England - Premier League",
+      "url": "https://xciptv.short.gy/XCIPTV?team=Liverpool"
+    },
+    {
+      "name": "Arsenal",
+      "tvg-id": "arsenal",
+      "tvg-name": "Arsenal FC",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+      "group": "England - Premier League",
+      "url": "https://xciptv.short.gy/XCIPTV?team=Arsenal"
+    },
+    {
+      "name": "Chelsea",
+      "tvg-id": "chelsea",
+      "tvg-name": "Chelsea FC",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+      "group": "England - Premier League",
+      "url": "https://xciptv.short.gy/XCIPTV?team=Chelsea"
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "tvg-id": "tottenham",
+      "tvg-name": "Tottenham Hotspur",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
+      "group": "England - Premier League",
+      "url": "https://xciptv.short.gy/XCIPTV?team=Tottenham"
+    },
+    {
+      "name": "FC Barcelona",
+      "tvg-id": "barcelona",
+      "tvg-name": "FC Barcelona",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+      "group": "Spain - La Liga",
+      "url": "https://xciptv.short.gy/XCIPTV?team=Barcelona"
+    },
+    {
+      "name": "Real Madrid",
+      "tvg-id": "real_madrid",
+      "tvg-name": "Real Madrid",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+      "group": "Spain - La Liga",
+      "url": "https://xciptv.short.gy/XCIPTV?team=Real%20Madrid"
+    },
+    {
+      "name": "Bayern Munich",
+      "tvg-id": "bayern",
+      "tvg-name": "FC Bayern Munich",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo_%282017%29.svg",
+      "group": "Germany - Bundesliga",
+      "url": "https://xciptv.short.gy/XCIPTV?team=Bayern%20Munich"
+    },
+    {
+      "name": "Paris Saint-Germain",
+      "tvg-id": "psg",
+      "tvg-name": "Paris Saint-Germain",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
+      "group": "France - Ligue 1",
+      "url": "https://xciptv.short.gy/XCIPTV?team=PSG"
+    },
+    {
+      "name": "Juventus",
+      "tvg-id": "juventus",
+      "tvg-name": "Juventus FC",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Juventus_FC_2017_logo.svg",
+      "group": "Italy - Serie A",
+      "url": "https://xciptv.short.gy/XCIPTV?team=Juventus"
+    },
+    {
+      "name": "AC Milan",
+      "tvg-id": "ac_milan",
+      "tvg-name": "AC Milan",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AC_Milan_2016_logo.svg",
+      "group": "Italy - Serie A",
+      "url": "https://xciptv.short.gy/XCIPTV?team=AC%20Milan"
+    },
+    {
+      "name": "Inter Milan",
+      "tvg-id": "inter",
+      "tvg-name": "Inter Milan",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/05/Inter_Milan_logo.svg",
+      "group": "Italy - Serie A",
+      "url": "https://xciptv.short.gy/XCIPTV?team=Inter%20Milan"
+    },
+    {
+      "name": "Atletico Madrid",
+      "tvg-id": "atletico",
+      "tvg-name": "Atletico Madrid",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.png",
+      "group": "Spain - La Liga",
+      "url": "https://xciptv.short.gy/XCIPTV?team=Atletico%20Madrid"
+    },
+    {
+      "name": "Borussia Dortmund",
+      "tvg-id": "dortmund",
+      "tvg-name": "Borussia Dortmund",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Borussia_Dortmund_logo.svg",
+      "group": "Germany - Bundesliga",
+      "url": "https://xciptv.short.gy/XCIPTV?team=Borussia%20Dortmund"
+    },
+    {
+      "name": "Ajax",
+      "tvg-id": "ajax",
+      "tvg-name": "AFC Ajax",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/79/Ajax_Amsterdam.svg",
+      "group": "Netherlands - Eredivisie",
+      "url": "https://xciptv.short.gy/XCIPTV?team=Ajax"
+    },
+    {
+      "name": "Benfica",
+      "tvg-id": "benfica",
+      "tvg-name": "SL Benfica",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/SL_Benfica_%28crest%29.svg",
+      "group": "Portugal - Primeira Liga",
+      "url": "https://xciptv.short.gy/XCIPTV?team=Benfica"
+    },
+    {
+      "name": "Celtic",
+      "tvg-id": "celtic",
+      "tvg-name": "Celtic FC",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/5f/Celtic_FC.svg",
+      "group": "Scotland - Premiership",
+      "url": "https://xciptv.short.gy/XCIPTV?team=Celtic"
+    },
+    {
+      "name": "Rangers",
+      "tvg-id": "rangers",
+      "tvg-name": "Rangers FC",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/15/Rangers_FC_logo.svg",
+      "group": "Scotland - Premiership",
+      "url": "https://xciptv.short.gy/XCIPTV?team=Rangers"
+    },
+    {
+      "name": "Sporting CP",
+      "tvg-id": "sporting",
+      "tvg-name": "Sporting CP",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/7c/Sporting_CP.svg",
+      "group": "Portugal - Primeira Liga",
+      "url": "https://xciptv.short.gy/XCIPTV?team=Sporting%20CP"
+    }
+  ]
+}
