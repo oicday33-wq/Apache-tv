@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1  group-title="บอลสด" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStTwkNxIZG2m7jVFILSMDjAnufb3cNxshu2CBhf1vTXg&s",Bayern Munich vs Chelsea
-https://e102.hellotherepadawan.org/v5/fGjstFrOzETcS79pJUFsRQ/1758129252/8549d872141eb2f1e0d2405e4f26857a/u9eNDjDH7xU2OcfxKDpbYQ/1758139932/live/dx-origin/dooball66-bein2x_720/chunks.m3u8
+#Expire December 24, 2025
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://theone.royal2pro.net:80/play/live.php?mac=00:1a:79:01:71:38&stream=309615&extension=m3u8
